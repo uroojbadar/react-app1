@@ -9,7 +9,6 @@ function App() {
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                   
                     <i class="fas fa-stream navbar-toggler-icon"></i>
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
